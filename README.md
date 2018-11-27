@@ -2,5 +2,5 @@
 あいうえお
 # 新しい文章を追加
 かきくけこ
-aaaaaaaa
+aaaaaaa
 sasa
